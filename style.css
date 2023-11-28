@@ -1,0 +1,33 @@
+.btn{
+    width: 50px;
+    height: 50px;
+    margin: 0 7.5px;
+    text-align: center;
+    color: black;
+    background-color: #354357;
+    font-weight: bold;
+    font-size: 18px;
+    
+}
+
+#btn-c{
+    width: 190px;
+}
+
+#btn-icon{
+    width: 120px;
+}
+
+main{
+    background-color: purple;
+    width: 400px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+body{
+    background-color: black;
+}
